@@ -96,6 +96,3 @@ These instructions will get you a copy of the project up and running on your loc
 
 For details on the CI/CD pipeline, Dockerization, and hosting considerations, please refer to the `devops/README.md` file.
 
-## Part 3: Frontend - Acknowledgment
-
-As I was unable to download the provided frontend from the Google Drive link, I have created a placeholder frontend using Vite and React. This frontend includes the basic structure and functionality required by the assessment, such as API integration, state management, and a basic UI.
